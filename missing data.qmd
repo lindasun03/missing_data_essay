@@ -6,13 +6,13 @@ format: pdf
 editor: visual
 ---
 
+[github repository link](https://github.com/lindasun03/missing_data_essay)
+
 **Understanding Missing Data and Strategies for Addressing It**
 
 Missing data is a common issue encountered in various fields such as statistics, machine learning, and data analysis. It refers to the absence of values in a dataset, either due to errors in data collection, malfunctioning equipment, or participant non-response. Dealing with missing data is crucial because it can lead to biased results, reduced statistical power, and inaccurate conclusions if not handled properly. In this discussion, we will delve into what missing data entails and explore strategies for effectively managing it.
 
 **Types of Missing Data:**
-
-Before discussing strategies for handling missing data, it's essential to understand the different types:
 
 1.  **Missing Completely at Random (MCAR):** In this scenario, the missingness of data points is unrelated to both observed and unobserved data. This implies that any systematic differences between the observed and missing data are due to chance alone.
 
@@ -47,3 +47,7 @@ Several techniques exist to address missing data, each with its advantages and l
 **Conclusion:**
 
 Missing data pose challenges in data analysis and interpretation, requiring careful consideration and appropriate handling methods. Understanding the types of missingness and selecting suitable strategies are essential steps in mitigating biases and ensuring the validity of results. By employing techniques such as imputation, model-based approaches, and sensitivity analysis, researchers can effectively address missing data and enhance the reliability of their findings in various fields of study.
+
+**Peer review**
+
+Yiyi Feng:Great overview on managing missing data! Your breakdown of the types of missing is helpful for understanding the different strategies needed. I especially appreciated the concise explanations of various handling techniques like imputation and model-based methods. Maybe adding a few real-world examples could make it even more relatable.
